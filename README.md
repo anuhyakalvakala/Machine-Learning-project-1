@@ -59,5 +59,4 @@ The data was trained and cross validated on different algorithms and found a mea
 
 
 
-![image](https://user-images.githubusercontent.com/96926526/170372843-2adf2e39-54fd-451e-88e2-891ccaeb16b6.png)
 
